@@ -1,0 +1,29 @@
+.row1{
+    border: solid red 3px;
+}
+
+.row2{
+    border: solid rgb(26, 216, 8) 3px;
+}
+
+.row3{
+    border: solid rgb(19, 1, 2) 3px;
+}
+
+.row4{
+    border: solid rgb(236, 18, 29) 3px;
+}
+
+.row5{
+    border: solid rgb(24, 20, 20) 3px;
+}
+
+.box{
+    border: solid rgb(24, 20, 20) 3px;
+}
+
+
+.footer{
+    background-color: red;  
+}
+
